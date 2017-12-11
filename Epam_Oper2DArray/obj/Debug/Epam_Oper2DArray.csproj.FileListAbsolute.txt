@@ -4,3 +4,7 @@ C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2
 C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\bin\Debug\Epam_Oper2DArray.exe
 C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\bin\Debug\Epam_Oper2DArray.pdb
 C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\obj\Debug\Epam_Oper2DArray.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\bin\Debug\Epam_Log_library.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\bin\Debug\Newtonsoft.Json.dll
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\bin\Debug\Epam_Log_library.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\bin\Debug\Newtonsoft.Json.xml

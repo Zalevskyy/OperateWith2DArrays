@@ -35,6 +35,10 @@ namespace Epam_Oper2DArray
             Console.WriteLine("Multiplication arrays:{0}\n* {1} \n= {2}", Oper2DArray.ToString(array1), Oper2DArray.ToString(array2), Oper2DArray.ToString(Oper2DArray.MultArray(array1, array2)));
             Console.WriteLine();
             #endregion
+            #region Multiply with exception
+            Console.WriteLine("Multiplication arrays:{0}\n* {1} \n= {2}", Oper2DArray.ToString(array1), Oper2DArray.ToString(array11), Oper2DArray.ToString(Oper2DArray.MultArray(array1, array11)));
+            Console.WriteLine();
+            #endregion
             #region SubArray
             double[,] array4;
             int n = 2;
