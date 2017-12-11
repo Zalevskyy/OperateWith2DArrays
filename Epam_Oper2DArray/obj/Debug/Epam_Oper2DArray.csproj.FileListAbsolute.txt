@@ -1,0 +1,6 @@
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\bin\Debug\Epam_Oper2DArray.exe.config
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\obj\Debug\Epam_Oper2DArray.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\obj\Debug\Epam_Oper2DArray.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\bin\Debug\Epam_Oper2DArray.exe
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\bin\Debug\Epam_Oper2DArray.pdb
+C:\Users\admin\Documents\Visual Studio 2015\Projects\Epam_Oper2DArray\Epam_Oper2DArray\obj\Debug\Epam_Oper2DArray.csprojResolveAssemblyReference.cache
